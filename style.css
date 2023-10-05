@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: initial;
+    font-weight: 400;
+    text-align: initial;
+    font-family: 'Pixelify Sans', cursive;
+}
+
+h1 {
+    display: flex;
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+}
+
+body {
+    margin: auto;
+    width: 80%;
+}
+
+.conteiner {
+    background-color: gray;
+    border-radius: 30px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    width: 400px;
+}
+
+.caixa {
+    background-color: grey;
+}
